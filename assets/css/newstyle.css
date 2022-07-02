@@ -1,0 +1,17 @@
+.input-group span{
+   
+    color:red;
+    position:absolute;
+    bottom: 12px;
+    right: 17px;
+    font-size: 14px;
+    
+   
+}
+#submit-error{
+    color: red;
+    di
+}
+.input-group span i{
+    color: seagreen;
+}
